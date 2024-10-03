@@ -1,0 +1,6 @@
+- using node 20.9.0
+- deploy contracts
+  - cd src/contracts
+  - npx hardhat run .\scripts\deploy.js
+- run client
+  - npm run start
